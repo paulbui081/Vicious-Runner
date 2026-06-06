@@ -1,2 +1,3 @@
-# Vicious-Runner
-ue5 mobile project
+# IERG
+
+Developed with Unreal Engine 5
