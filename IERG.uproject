@@ -1,29 +1,3 @@
-{
-	"FileVersion": 3,
-	"EngineAssociation": "5.7",
-	"Category": "",
-	"Description": "",
-	"Plugins": [
-		{
-			"Name": "RLPlugin",
-			"Enabled": false
-		},
-		{
-			"Name": "TNT_FlexibleLocomotionSystem",
-			"Enabled": false,
-			"MarketplaceURL": "com.epicgames.launcher://ue/marketplace/product/962f8f7ae88940d8b548e1fcf65e48ba"
-		},
-		{
-			"Name": "GBWFlowMove",
-			"Enabled": false
-		},
-		{
-			"Name": "SkeletalMeshModelingTools",
-			"Enabled": false
-		},
-		{
-			"Name": "ModelingToolsEditorMode",
-			"Enabled": true
-		}
-	]
-}
+version https://git-lfs.github.com/spec/v1
+oid sha256:2d603f1317b596143358ef979e84badb9670a7dcc8bfcc925c418486308553b9
+size 551
